@@ -8,7 +8,7 @@ keywords:
   - matic
   - multisig
   - address
-image: https://matic.network/banners/matic-network-16x9.png 
+image: https://wiki.polygon.technology/img/polygon-wiki.png
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
