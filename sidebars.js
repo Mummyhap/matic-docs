@@ -1470,7 +1470,6 @@ module.exports = {
         "supernets/contracts/exit-helper",
         "supernets/contracts/reward-pool",
         "supernets/contracts/validator-queue",
-        //"supernets/contracts/validator-storage",
         "supernets/contracts/withdrawal-queue",
       ],
     },
@@ -1500,7 +1499,6 @@ module.exports = {
         "supernets/api/json-rpc-debug",
       ],
     },
-    "supernets/supernets-faq",
   ],
 
 };
